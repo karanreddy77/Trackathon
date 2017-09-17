@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Trackathon</string>
+
+    <string name="title_activity_login">Trackathon</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_workout">New Workout</string>
+    <string name="title_activity_save_workout">Save Workout</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_history_viewer">History</string>
+
+    <string name="desc_trackathon_icon">Trackathon logo and name</string>
+    <string name="google_title_text">Google Sign In</string>
+    <string name="signing_in">Signing-in…</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signed_out">Signed Out</string>
+
+    <string name="timerVal">00:00:000</string>
+    <string name="start_workout">Start Workout</string>
+    <string name="pause_workout">Pause Workout</string>
+    <string name="resume_workout">Resume Workout</string>
+    <string name="finish_workout">Finish Workout</string>
+    <string name="paceValue_default_text">0.00 Speed(mps)</string>
+    <string name="distanceValue_default_text">0.000 Distance(km)</string>
+
+
+    <string name="distance">Distance</string>
+    <string name="distance_default">0.000 km</string>
+    <string name="duration">Duration</string>
+    <string name="duration_default">00:00:000</string>
+
+    <string name="discard_workout">Discard</string>
+    <string name="save_workout">Save</string>
+
+    <string name="welcome_user">Hello</string>
+    <string name="refresh">Refresh</string>
+
+
+</resources>
